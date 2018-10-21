@@ -14,6 +14,8 @@
 <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet"> 
 
 <link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/main.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/responsive.css">
+<link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/template.css">
 <script src="../componente/Js/main.js"></script>
 
 
