@@ -1,6 +1,6 @@
 <meta charset="utf-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>template</title>
+<title>template in link</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href="../imagen/favicon/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -18,7 +18,11 @@
 <link rel="stylesheet" type="text/css" media="screen" href="../componente/Css/template.css">
 <script src="../componente/Js/main.js"></script>
 
-
+<link rel="stylesheet" href="../componente/Css/animate.css">
+<script src="../componente/Js/wow.min.js"></script>
+<script>
+	new WOW().init();
+</script>
 
     
   
