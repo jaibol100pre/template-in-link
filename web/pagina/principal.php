@@ -6,7 +6,7 @@
 <body>
     <div class="page">
          <div class="row"><?php include ('../include/menu.php');?> </div> <!--row-->
-          <div class="row"><?php include ('../include/iconos.php');?> </div> <!--row-->
+          <div class="row"><?php include ('../include/slider.php');?> </div> <!--row-->
         
           <h1 class="wow bounce">Template</h1>
            
